@@ -1,1 +1,11 @@
 c:\users\madeline_2\documents\visual studio 2013\Projects\madeline_schimenti_a5\madeline_schimenti_a5\bin\Debug\madeline_schimenti_a5.exe.config
+C:\Users\Madeline\Documents\GitHub\madeline_schimenti_a5\bin\Debug\madeline_schimenti_a5.exe.config
+C:\Users\Madeline\Documents\GitHub\madeline_schimenti_a5\bin\Debug\madeline_schimenti_a5.exe
+C:\Users\Madeline\Documents\GitHub\madeline_schimenti_a5\bin\Debug\madeline_schimenti_a5.pdb
+C:\Users\Madeline\Documents\GitHub\madeline_schimenti_a5\bin\Debug\PlayingCards.dll
+C:\Users\Madeline\Documents\GitHub\madeline_schimenti_a5\obj\Debug\madeline_schimenti_a5.csprojResolveAssemblyReference.cache
+C:\Users\Madeline\Documents\GitHub\madeline_schimenti_a5\obj\Debug\madeline_schimenti_a5.Form1.resources
+C:\Users\Madeline\Documents\GitHub\madeline_schimenti_a5\obj\Debug\madeline_schimenti_a5.Properties.Resources.resources
+C:\Users\Madeline\Documents\GitHub\madeline_schimenti_a5\obj\Debug\madeline_schimenti_a5.csproj.GenerateResource.Cache
+C:\Users\Madeline\Documents\GitHub\madeline_schimenti_a5\obj\Debug\madeline_schimenti_a5.exe
+C:\Users\Madeline\Documents\GitHub\madeline_schimenti_a5\obj\Debug\madeline_schimenti_a5.pdb

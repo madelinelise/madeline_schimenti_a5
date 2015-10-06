@@ -19,8 +19,27 @@ namespace madeline_schimenti_a5
 
         private void button1_Click(object sender, EventArgs e)
         {
+            PlayingCards.Deck myDeck = new PlayingCards.Deck();
+
             PlayingCards.Card topOfDeck = new PlayingCards.Card(PlayingCards.CardSuits.Spade,
             PlayingCards.CardValues.Deuce);
+
+            myDeck.Cards.Add(topOfDeck);
+
+            PlayingCards.Card bottomOfDeck = new PlayingCards.Card(PlayingCards.CardSuits.Heart,
+            PlayingCards.CardValues.Queen);
+
+            myDeck.Cards.Add(bottomOfDeck);
+
+
+
+
+            pictureBox1.Image = myDeck.Cards[1].FaceImage;
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
