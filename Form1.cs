@@ -32,9 +32,30 @@ namespace madeline_schimenti_a5
             myDeck.Cards.Add(bottomOfDeck);
 
 
+            //pictureBox1.Image = myDeck.Cards[1].FaceImage;
+
+            PictureBox pictureBoxCard = new PictureBox();
+
+            pictureBoxCard.Image = myDeck.Cards[0].FaceImage;
+            pictureBoxCard.Left = 30;
+            pictureBoxCard.Top = 78;
+            pictureBoxCard.SizeMode = PictureBoxSizeMode.AutoSize;
+            pictureBoxCard.Parent = this;
+            pictureBoxCard.Visible = true;
 
 
-            pictureBox1.Image = myDeck.Cards[1].FaceImage;
+            PictureBox pictureBoxCard2 = new PictureBox();
+
+            pictureBoxCard2.Image = myDeck.Cards[1].FaceImage;
+            pictureBoxCard2.Left = 50;
+            pictureBoxCard2.Top = 78;
+            pictureBoxCard2.SizeMode = PictureBoxSizeMode.AutoSize;
+            pictureBoxCard2.Parent = this;
+            pictureBoxCard2.Visible = true;
+            
+
+
+
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
